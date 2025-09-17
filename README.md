@@ -40,14 +40,14 @@ This project contains automated tests for the XYZ bank app using **Playwright** 
  
   On macOS:
   ```bash
-  open playwright-report/index.html
+  open reports/index.html
   ```
 
-On Windows:
+   On Windows:
 
-```bash
-start playwright-report\index.html
-```
+   ```bash
+   start reports\index.html
+   ```
 
 ## Project Structure
 
