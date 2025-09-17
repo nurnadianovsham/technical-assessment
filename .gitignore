@@ -1,0 +1,24 @@
+
+# Dependencies
+node_modules/
+
+# Playwright test artifacts
+test-results/
+playwright-report/
+blob-report/
+trace/
+videos/
+screenshots/
+reports/
+
+# Playwright cache
+/playwright/.cache/
+
+# Logs & archives
+*.log
+*.zip
+
+# Environment variables
+.env
+
+
