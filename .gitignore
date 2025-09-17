@@ -9,7 +9,6 @@ blob-report/
 trace/
 videos/
 screenshots/
-reports/
 
 # Playwright cache
 /playwright/.cache/
