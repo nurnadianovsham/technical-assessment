@@ -4,13 +4,20 @@ This project contains automated tests for the XYZ bank app using **Playwright** 
 
 ## Setup
 
-1. Install dependencies:
+1. Clone the repository:
+  
+  ```bash
+   git clone https://github.com/nurnadianovsham/technical-assessment.git
+   cd technical-assessment
+   ```
+
+2. Install dependencies:
 
    ```bash
    npm install
    ```
 
-2. Install Playwright browsers:
+3. Install Playwright browsers:
 
    ```bash
    npx playwright install
