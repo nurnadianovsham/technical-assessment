@@ -6,7 +6,7 @@ This project contains automated tests for the XYZ bank app using **Playwright** 
 
 1. Clone the repository:
   
-  ```bash
+   ```bash
    git clone https://github.com/nurnadianovsham/technical-assessment.git
    cd technical-assessment
    ```
